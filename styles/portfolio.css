@@ -34,7 +34,8 @@ p {
   line-height: 30px;
 }
 .hero {
-  background: var(--secondary-color);
+  background: #f7edf6;
+
   text-align: center;
   padding: 160px 20px;
 }
